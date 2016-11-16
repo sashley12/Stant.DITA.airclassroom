@@ -1,0 +1,13 @@
+fil = new Array();
+fil["0"]= "concepts/c-equipment.html@@@Classroom Equipment@@@Our classrooms are outfitted witht the most up-to-date equipment that will enhance your experience...";
+fil["1"]= "concepts/c-hours.html@@@Hours of Operation@@@AirClassroom does not operate 24/7. Plan your check in and check out accordingly...";
+fil["2"]= "concepts/c-intro.html@@@Welcome to AirClassroom@@@With AirClassroom, you can easily find and rent the space you need!...";
+fil["3"]= "concepts/c-location.html@@@Location@@@Where is AirClassroom, anyway?...";
+fil["4"]= "concepts/c-prices.html@@@Prices@@@AirClassroom offers you your classroom space for a price you cannot beat!...";
+fil["5"]= "tasks/t-cancel.html@@@How to Cancel a Reservation@@@If it turns out you can&apos;t make your reservation, here&apos;s how to cancel...";
+fil["6"]= "tasks/t-checkin.html@@@How to Check In@@@Now that you have booked your classroom, here&apos;s what to do on check-in day...";
+fil["7"]= "tasks/t-checkout.html@@@How to Check Out@@@Checking out is as easy as checking in...";
+fil["8"]= "tasks/t-parking.html@@@How to Find Parking@@@Parking around the Virginia Tech campus can be tricky, but with AirClassroom&apos;s guidance, you and your group will be able to park without any hassles...";
+fil["9"]= "tasks/t-refund.html@@@How to Request a Refund@@@If you were unsatisfied with your AirClassroom experience, you can take these steps to request a refund...";
+fil["10"]= "tasks/t-reserve.html@@@How to Reserve a Classroom@@@You know you need a classroom space \u2014 here&apos;s how to reserve one...";
+fil["11"]= "tasks/t-signup.html@@@How to Create an Account@@@Thank you for your interest in AirClassroom! Let&apos;s create your account...";

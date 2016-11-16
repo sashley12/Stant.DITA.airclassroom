@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c-intro" path="concepts/c-intro.html"/>
+   <appContext helpID="t-signup" path="tasks/t-signup.html"/>
+   <appContext helpID="t-reserve" path="tasks/t-reserve.html"/>
+   <appContext helpID="t-checkin" path="tasks/t-checkin.html"/>
+   <appContext helpID="t-checkout" path="tasks/t-checkout.html"/>
+   <appContext helpID="c-hours" path="concepts/c-hours.html"/>
+   <appContext helpID="c-prices" path="concepts/c-prices.html"/>
+   <appContext helpID="t-cancelx" path="tasks/t-cancel.html"/>
+   <appContext helpID="t-refund" path="tasks/t-refund.html"/>
+   <appContext helpID="c-equipment" path="concepts/c-equipment.html"/>
+   <appContext helpID="c-location" path="concepts/c-location.html"/>
+   <appContext helpID="t-parking" path="tasks/t-parking.html"/>
+</map>

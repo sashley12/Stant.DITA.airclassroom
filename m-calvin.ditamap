@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-<title>How to Rent a Classroom</title>
+<title>AirClassroom</title>
  <keydef keys="audience">
   <topicmeta>
    <keywords>
@@ -23,5 +23,16 @@
    </keywords>
   </topicmeta>
  </keydef>
- <topicref href="c-intro.dita"/>
+ <topicref href="concepts/c-intro.dita"/>
+ <topicref href="tasks/t-signup.dita"/>
+ <topicref href="tasks/t-reserve.dita"/>
+ <topicref href="tasks/t-checkin.dita"/>
+ <topicref href="tasks/t-checkout.dita"/>
+ <topicref href="concepts/c-hours.dita"/>
+ <topicref href="concepts/c-prices.dita"/>
+ <topicref href="tasks/t-cancel.dita"/>
+ <topicref href="tasks/t-refund.dita"/>
+ <topicref href="concepts/c-equipment.dita"/>
+ <topicref href="concepts/c-location.dita"/>
+ <topicref href="tasks/t-parking.dita"/>
 </map>
