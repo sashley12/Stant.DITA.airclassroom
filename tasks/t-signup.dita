@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-signup">
+    <title>How to Create an Account</title>
+    <shortdesc>Thank you for your interest in AirClassroom! Let's create your account.</shortdesc>
+    <taskbody>
+        <context conref="t-reserve.dita#t-reserve/accessibility">
+        </context>
+        <steps>
+            <step conref="t-reserve.dita#t-reserve/airclassroom.com">
+                <cmd></cmd>
+            </step>
+            <step>
+                <cmd>Click "Sign Up" in the top right corner.</cmd>
+            </step>
+            <step>
+                <cmd>Enter your information into the appropriate fields.</cmd>
+                    <info>You will not be able to use the same email address for two different accounts.</info>
+            </step>
+            <step>
+                <cmd>Confirm your email address.</cmd>
+            </step>
+            <step importance="optional">
+                <cmd>Upload a profile picture that shows your face.</cmd>
+            </step>
+            <step>
+                <cmd>See <xref href="t-reserve.dita"/> to make your first reservation.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

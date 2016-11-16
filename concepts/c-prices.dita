@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-prices">
+ <title>Prices</title>
+ <shortdesc>AirClassroom offers you your classroom space for a price you cannot beat!</shortdesc>
+ <conbody>
+  <p>AirClassroom prices vary depending on the number of hours you intend to use our classroom
+   space.</p>
+  <p>Prices to rent a classroom are listed below:</p>
+  <ul>
+   <li>1 hour: $50</li>
+   <li>2 hours: $90</li>
+   <li>3 hours: $130</li>
+   <li>4 hours: $175</li>
+   <li>5 hours: $200</li>
+   <li>All day: $350</li>
+  </ul>
+ </conbody>
+</concept>

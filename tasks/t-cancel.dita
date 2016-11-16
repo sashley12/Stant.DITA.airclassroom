@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-cancelx">
+    <title>How to Cancel a Reservation</title>
+    <shortdesc>If it turns out you can't make your reservation, here's how to cancel.</shortdesc>
+    <taskbody>
+        <context>
+            <p>A reservation must be cancelled at least two days before the date, or a late cancellation fee will be applied to your card.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to <xref href="https://www.airclassroom.com" format="HTML" scope="external"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Click on "My Reservations" in the top, right corner.</cmd>
+            </step>
+            <step>
+                <cmd>Click "Cancel Reservation" under the reservation you wish to cancel.</cmd>
+            </step>
+            <step importance="optional">
+                <cmd>Give us a reason for why you cancelled your reservation.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

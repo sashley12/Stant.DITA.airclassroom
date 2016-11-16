@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-checkout">
+    <title>How to Check Out</title>
+    <shortdesc>Checking out is as easy as checking in. </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Turn off the computers, projector, and lights, and lock the classroom door when you and your group are finished with the space.</cmd>
+            </step>
+            <step>
+                <cmd>Return your key to the person at the desk in Shanks 323.</cmd>
+                <info>
+                   <note type="caution">There will be additional charges if you lose or forget to return the key.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

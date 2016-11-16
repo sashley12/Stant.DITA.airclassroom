@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>How to Rent a Classroom</title>
+ <keydef keys="audience">
+  <topicmeta>
+   <keywords>
+    <keyword>a Virginia Tech employee</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+ <keydef keys="needs">
+  <topicmeta>
+   <keywords>
+    <keyword>for extracurricular learning, meetings, or training sessions</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+ <keydef keys="location">
+  <topicmeta>
+   <keywords>
+    <keyword>in Shanks Hall</keyword>
+   </keywords>
+  </topicmeta>
+ </keydef>
+ <topicref href="c-intro.dita"/>
+</map>

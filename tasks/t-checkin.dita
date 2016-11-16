@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-checkin">
+    <title>How to Check In</title>
+    <shortdesc>Now that you have booked your classroom, here's what to do on check-in day.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Shanks Hall is located 181 Turner St. NW, Blacksburg, VA.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Enter Shanks Hall, and find the main office (room 323) on the third floor.</cmd>
+                <info>There is an elevator in the back of the first floor of Shanks.</info>
+            </step>
+            <step>
+                <cmd>Tell the person at the desk your information, and show them your receipt to get your key.</cmd>
+                <stepresult><p>You are now able to unlock your classroom.</p></stepresult>
+                <steptroubleshooting><p>If the key does not work, be sure you are at the correct classroom.</p>
+                                     <p>If you are at the correct classroom, and the key still does not  work, ask the person at the desk for assistance.</p>
+                </steptroubleshooting>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-reserve">
+    <title>How to Reserve a Classroom</title>
+    <shortdesc>You know you need a classroom space — here's how to reserve one.</shortdesc>
+    <taskbody>
+        <context id="accessibility">
+            <p>You can access AirClassroom on your desktop or mobile device.</p>
+        </context>
+        <steps>
+            <step id="airclassroom.com">
+                <cmd>Go to <xref href="https://www.airclassroom.com" format="HTML" scope="external"/>.</cmd>
+            </step>
+            <step id="signin">
+                <cmd>Log into your AirClassroom account.</cmd>
+                <info>If you don't have an AirClassroom account, see <xref
+                        href="t-signup.dita#t-signup"/></info>
+            </step>
+            <step>
+                <cmd>On the homepage, select either the first or third floor classroom, and mark the date(s) you want to reserve on the drop-down calendar.</cmd>
+                <info>If days on the calendar are colored in orange, it means the classroom you
+                    selected is not available on that day.</info>
+            </step>
+            <step>
+                <cmd>On the next page, enter the number of people in your group, and list any
+                    accomodations your group may need.</cmd>
+            </step>
+            <step>
+                <cmd>Confirm payment, and download or print your receipt.</cmd>
+            </step>
+            <step>
+                <cmd>See <xref href="t-checkin.dita#t-checkin"/> for details on how to check in when your arrive.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

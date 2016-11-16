@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-refund">
+    <title>How to Request a Refund</title>
+    <shortdesc>If you were unsatisfied with your AirClassroom experience, you can take these steps to request a refund.</shortdesc>
+    <taskbody>
+        <context conref="t-reserve.dita#t-reserve/accessibility">
+        </context>
+        <steps>
+            <step conref="t-reserve.dita#t-reserve/airclassroom.com">
+                <cmd></cmd>
+            </step>
+            <step>
+                <cmd>Under "My Reservations," find the payment information for the reservation you were unsatisfied with.</cmd>
+            </step>
+            <step>
+                <cmd>Click "Request Refund" at the bottom of the page.</cmd>
+            </step>
+            <step>
+                <cmd>Fill out the online form, and state the reasons for your unsatisfaction.</cmd>
+                <info>
+                    <p>The approval or rejection of your request may take up to 10 business days.</p>
+                    <p>If your request is approved, your money will be returned to your card within 3-5 business days.</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

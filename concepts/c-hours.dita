@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-hours">
+ <title>Hours of Operation</title>
+ <shortdesc>AirClassroom does not operate 24/7. Plan your check in and check out accordingly.</shortdesc>
+ <conbody>
+   <p>While you will be able to use the classroom until Shanks closes at midnight, there will not
+   always be someone at the desk in Shanks 323. Make sure to check in and check out during our hours
+   of operationed listed below:</p>
+  <ul>
+   <li>Monday-Friday: 7am-5pm</li>
+   <li>Saturday: 8am-1pm</li>
+  </ul>
+ </conbody>
+</concept>

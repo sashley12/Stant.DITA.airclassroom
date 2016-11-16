@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-intro">
+ <title>Welcome to AirClassroom</title>
+ <shortdesc>With AirClassroom, you can easily find and rent the space you need!</shortdesc>
+ <conbody>
+  <p>Sometimes, you, <keyword keyref="audience"/>, will need a space <keyword keyref="needs"/>.
+   Our classrooms, located <keyword keyref="location"/>, are equipped with high quality computers
+   and projectors and can fit approximately 40 people each. Here at AirClassroom, we make that space
+   obtainable with only a couple clicks of your mouse!</p>
+ </conbody>
+</concept>

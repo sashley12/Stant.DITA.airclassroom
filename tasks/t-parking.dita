@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-parking">
+    <title>How to Find Parking</title>
+    <shortdesc>Parking around the Virginia Tech campus can be tricky, but with AirClassroom's guidance, you and your group will be able to park without any hassles.</shortdesc>
+    <taskbody>
+        <context>
+            <p>You will not be able to park on campus without a parking or visitor's permit Monday-Friday between 7am and 5pm.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Request a visitor's parking permit from the Virginia Tech Visitor  between 7:30am and 6pm.</cmd>
+                <info><p>The Visitor Center is located at 925 Prices Fork Road, Blacksburg, VA, 24060.</p>
+                       <p>The visitor's parking permit will only allow you to park in spots labelled for Faculty, Staff, Visitor, or Student.</p></info>
+            </step>
+            <step>
+                <cmd>Park your vehicle in the parking garage at 1330 Perry St, Blacksburg, VA, 24060.</cmd>
+                <info>
+                    <note type="caution">Do not park in handicap spots or emergency vehicle spots.</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
