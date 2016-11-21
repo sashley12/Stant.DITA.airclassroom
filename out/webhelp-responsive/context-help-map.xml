@@ -11,5 +11,4 @@
    <appContext helpID="t-refund" path="tasks/t-refund.html"/>
    <appContext helpID="c-equipment" path="concepts/c-equipment.html"/>
    <appContext helpID="c-location" path="concepts/c-location.html"/>
-   <appContext helpID="t-parking" path="tasks/t-parking.html"/>
 </map>

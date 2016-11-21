@@ -1,7 +1,5 @@
 
 // Auto generated index for searching.
-w["out"]="0*1,1*27,3*0,5*26,7*56,9*0";
-w["outfitted"]="0*26";
 w["outlets"]="0*0";
 w["page"]="9*0,10*0";
 w["park"]="8*30";
@@ -21,6 +19,7 @@ w["profile"]="11*0";
 w["programs"]="0*0";
 w["projector"]="0*1,7*0";
 w["projectors"]="2*0";
+w["puters"]="2*0";
 w["quad"]="3*0";
 w["quality"]="0*0,2*0";
 w["reason"]="5*0";
@@ -48,7 +47,7 @@ w["see"]="10*1,11*0";
 w["select"]="10*0";
 w["selected"]="10*0";
 w["sessions"]="2*0";
-w["shanks"]="1*1,3*0,6*2,7*0";
+w["shanks"]="1*1,2*0,3*0,6*2,7*0";
 w["show"]="6*0";
 w["shows"]="11*0";
 w["sign"]="11*0";
@@ -77,6 +76,7 @@ w["them"]="6*0";
 w["third"]="6*0,10*0";
 w["top"]="5*0,11*0";
 w["town"]="3*1";
+w["training"]="2*0";
 w["tricky"]="8*26";
 w["turn"]="7*0";
 w["turner"]="3*0,6*0";
