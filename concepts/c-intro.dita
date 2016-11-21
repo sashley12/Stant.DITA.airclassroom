@@ -4,6 +4,7 @@
  <title>Welcome to AirClassroom</title>
  <shortdesc>With AirClassroom, you can easily find and rent the space you need!</shortdesc>
  <conbody>
+   <image href="classroom.jpg"/>
   <p>Sometimes, you, <keyword keyref="audience"/>, will need a space <keyword keyref="needs"/>.
    Our classrooms, located <keyword keyref="location"/>, are equipped with high quality computers
    and projectors and can fit approximately 40 people each. Here at AirClassroom, we make that space
