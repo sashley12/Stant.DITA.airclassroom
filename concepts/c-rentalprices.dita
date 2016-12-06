@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
+<topic id="rentalprices">
+  <title>Rental Prices</title>
+  <shortdesc>Depending on the amount of devices and how long you need them for, you will have different pricing options for equipment rentals.
+    If rentals are not returned within alotted time, you are charged 5% of your original payment for each day that passes after the due date.</shortdesc>
+  
+  <body>
+      <section>    
+      <title>Laptops</title>
+      <p>Laptop computers are available to rent for $10 per laptop each hour. If you want more than five, however, you can get them for $7 each per hour.
+      These laptop rentals last for a maximum of one day, but special requests are considered.</p>
+      </section>
+      
+      <section>
+      <title>iPad Pros</title>
+      <p>iPad Pros are available to rent for $8 per iPad each hour. If you want more than five, however, you can get them for $6 each per hour.
+      These iPad rentals last for a maximum of one day, but special requests are considered.</p>
+      </section>
+      
+      <section>
+     <title>Videocameras</title>
+      <p>Videocameras are available to rent for $7 per videocamera each hour. If you want more than five, however, you can get them for $5 each per hour.
+      These videocamera rentals last for a maximum of one day, but special requests are considered.</p>
+      </section>
+  </body>
+</topic>

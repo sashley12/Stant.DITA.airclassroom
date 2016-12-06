@@ -35,4 +35,8 @@
  <topicref href="concepts/c-equipment.dita"/>
  <topicref href="concepts/c-location.dita"/>
  <topicref href="tasks/t-parking.dita"/>
+ <topicref href="concepts/c-rentalprices.dita"/>
+ <topicref href="concepts/c-damages.dita"/>
+ <topicref href="tasks/t-rentingequipment.md" format="markdown"/>
+ <topicref href="tasks/t-returningequipment.md" format="markdown"/>
 </map>
