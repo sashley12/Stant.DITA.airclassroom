@@ -39,4 +39,5 @@
  <topicref href="concepts/c-damages.dita"/>
  <topicref href="tasks/t-rentingequipment.md" format="markdown"/>
  <topicref href="tasks/t-returningequipment.md" format="markdown"/>
+ <topicref href="video.dita"/>
 </map>

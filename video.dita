@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
+<topic id="video">
+  <title>How to use the document camera</title>
+  <body>
+     <p>Watch this instructional video that, not only gives a short tour of AirClassroom, but teaches you how to use the document camera to project physical objects!</p>
+      <video>
+        <controls/>
+        <source value="https://www.youtube.com/embed/1Z8uYx58KnI"/>
+      </video>
+  </body>
+</topic>

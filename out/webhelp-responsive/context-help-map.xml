@@ -11,4 +11,11 @@
    <appContext helpID="t-refund" path="tasks/t-refund.html"/>
    <appContext helpID="c-equipment" path="concepts/c-equipment.html"/>
    <appContext helpID="c-location" path="concepts/c-location.html"/>
+   <appContext helpID="t-parking" path="tasks/t-parking.html"/>
+   <appContext helpID="rentalprices" path="concepts/c-rentalprices.html"/>
+   <appContext helpID="damages" path="concepts/c-damages.html"/>
+   <appContext helpID="renting_equipment_process" path="tasks/t-rentingequipment.html"/>
+   <appContext helpID="returning_equipment_process"
+               path="tasks/t-returningequipment.html"/>
+   <appContext helpID="video" path="video.html"/>
 </map>
